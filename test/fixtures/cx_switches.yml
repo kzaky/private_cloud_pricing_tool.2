@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manufacturer: MyString
+  switch_model: MyString
+  stackable: false
+  ports: 1
+  uplink_port: false
+  uplink_ports_count: 1
+  speed_of_network_ports: MyString
+  infrastructure_type: 1
+  cost: 1.5
+  markup: 1.5
+  price: 1.5
+  customer_id: 
+
+two:
+  manufacturer: MyString
+  switch_model: MyString
+  stackable: false
+  ports: 1
+  uplink_port: false
+  uplink_ports_count: 1
+  speed_of_network_ports: MyString
+  infrastructure_type: 1
+  cost: 1.5
+  markup: 1.5
+  price: 1.5
+  customer_id: 
