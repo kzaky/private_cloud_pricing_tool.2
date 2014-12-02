@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vm_desc: MyText
+  v_cpu: 1.5
+  max_v_cpu: 1.5
+  config_memory_gb: 1
+  avg_cpu_utilization: 1
+  storage_gb: 1
+  iops: 1
+  customer_id: 
+
+two:
+  vm_desc: MyText
+  v_cpu: 1.5
+  max_v_cpu: 1.5
+  config_memory_gb: 1
+  avg_cpu_utilization: 1
+  storage_gb: 1
+  iops: 1
+  customer_id: 
