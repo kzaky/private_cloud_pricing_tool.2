@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_name: MyString
+  sales_engineer: MyString
+  term: 1
+  infrastructure_type: 1
+  compute_scalability: false
+  storage_scalability: false
+  compute_growth: 1
+  storage_growth: 1
+
+two:
+  customer_name: MyString
+  sales_engineer: MyString
+  term: 1
+  infrastructure_type: 1
+  compute_scalability: false
+  storage_scalability: false
+  compute_growth: 1
+  storage_growth: 1
