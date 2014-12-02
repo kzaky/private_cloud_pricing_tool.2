@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manufacturer: MyString
+  storage_type: MyString
+  protocols_supported: MyString
+  iops: 1
+  hard_drive_option: MyString
+  speed_k_rpm: 1.5
+  disk_size_tb: 1
+  controller: MyString
+  ports_per_controller_gbe: 1
+  memory_per_controller_gb: 1
+  integrated_nic: MyString
+  infrastructure_type_gb: 1
+  cost: 1.5
+  markup: 1.5
+  price: 1.5
+  customer_id: 
+
+two:
+  manufacturer: MyString
+  storage_type: MyString
+  protocols_supported: MyString
+  iops: 1
+  hard_drive_option: MyString
+  speed_k_rpm: 1.5
+  disk_size_tb: 1
+  controller: MyString
+  ports_per_controller_gbe: 1
+  memory_per_controller_gb: 1
+  integrated_nic: MyString
+  infrastructure_type_gb: 1
+  cost: 1.5
+  markup: 1.5
+  price: 1.5
+  customer_id: 
