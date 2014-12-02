@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  size: MyString
+  vendor: MyString
+  server_name: MyString
+  processor_name: MyString
+  processor_type: MyString
+  processor_cores: 1
+  processor_speed_ghz: 1.5
+  ram_size_gb: 1
+  internal_drive_size: 1
+  max_count_internal_drives: 1
+  integrated_nic: MyString
+  infrastructure_type_gb: 1
+  cat6_count: 1
+  fibre_optic_count: 1
+  twinax_count: 1
+  cost: 1.5
+  markup: 1.5
+  price: 1.5
+  sockets_count: 1
+
+two:
+  size: MyString
+  vendor: MyString
+  server_name: MyString
+  processor_name: MyString
+  processor_type: MyString
+  processor_cores: 1
+  processor_speed_ghz: 1.5
+  ram_size_gb: 1
+  internal_drive_size: 1
+  max_count_internal_drives: 1
+  integrated_nic: MyString
+  infrastructure_type_gb: 1
+  cat6_count: 1
+  fibre_optic_count: 1
+  twinax_count: 1
+  cost: 1.5
+  markup: 1.5
+  price: 1.5
+  sockets_count: 1
