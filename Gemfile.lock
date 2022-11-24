@@ -127,7 +127,7 @@ GEM
       coffee-rails
     tzinfo (1.2.10)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2014.10)
+    tzinfo-data (1.2022.6)
       tzinfo (>= 1.0.0)
     uglifier (2.5.3)
       execjs (>= 0.3.0)
